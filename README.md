@@ -383,7 +383,7 @@ The trained model will play Flappy Bird autonomously.
 
 ### Training Output
 
-![Training Output](screenshots/training_output.png)
+![Training Output](https://github.com/siddemmohankrishna/Flappy-Bird-AI-using-Deep-Q-Network-DQN-/blob/6e7bda52d5152ef7cc57ff179f390056ae515279/training_output.png.png)
 
 ### Agent Playing Flappy Bird
 
