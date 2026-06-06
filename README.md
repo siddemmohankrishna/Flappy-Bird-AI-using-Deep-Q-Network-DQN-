@@ -316,7 +316,7 @@ Repeat until convergence
 ### Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/FlappyBird-DQN.git
+git clone https://github.com/siddemmohankrishna/FlappyBird-DQN.git
 cd FlappyBird-DQN
 ```
 
