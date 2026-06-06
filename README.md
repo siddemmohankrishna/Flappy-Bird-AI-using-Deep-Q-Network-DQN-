@@ -454,7 +454,7 @@ github
 
 ## 👨‍💻 Author
 
-### Mohan Krishna
+### Siddem Mohan Krishna
 
 Aspiring AI/ML Engineer | Data Analyst | Machine Learning Enthusiast
 
