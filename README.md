@@ -265,7 +265,7 @@ torch.optim.Adam
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/FlappyBird-DQN.git
+git clone https://github.com/siddemmohankrishna/FlappyBird-DQN.git
 cd FlappyBird-DQN
 ```
 
@@ -392,14 +392,14 @@ github
 
 ## 👨‍💻 Author
 
-**Mohan Krishna**
+**Siddem Mohan Krishna**
 
 Aspiring AI/ML Engineer | Data Analyst | Machine Learning Enthusiast
 
 ### Connect With Me
 
-- LinkedIn: www.linkedin.com/in/mohan-krishna-siddem
-- GitHub: https://github.com/yourusername
+- LinkedIn: (https://www.linkedin.com/in/siddem-mohan-krishna-247984378/)
+- GitHub: (https://github.com/siddemmohankrishna)
 
 ---
 
